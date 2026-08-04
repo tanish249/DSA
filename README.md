@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0709-to-lower-case) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->

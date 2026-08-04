@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->

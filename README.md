@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0217-contains-duplicate) |
+| [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2235-add-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

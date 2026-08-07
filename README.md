@@ -37,6 +37,7 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2469-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |

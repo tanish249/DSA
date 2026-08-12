@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2469-convert-the-temperature) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +69,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

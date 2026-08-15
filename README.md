@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |

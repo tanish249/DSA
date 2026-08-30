@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |

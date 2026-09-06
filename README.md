@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0217-contains-duplicate) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0709-to-lower-case) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3894-traffic-signal-color](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |

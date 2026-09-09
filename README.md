@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0242-valid-anagram) |
+| [0434-number-of-segments-in-a-string](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1662-check-if-two-string-arrays-are-equivalent) |

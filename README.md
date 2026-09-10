@@ -60,6 +60,7 @@
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3099-harshad-number) |
 | [3894-traffic-signal-color](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3894-traffic-signal-color) |
+| [3908-valid-digit-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3908-valid-digit-number) |
 ## Simulation
 |  |
 | ------- |

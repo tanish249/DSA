@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0709-to-lower-case) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1688-count-of-matches-in-tournament) |
@@ -71,6 +73,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |

@@ -60,6 +60,7 @@
 | [0412-fizz-buzz](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2235-add-two-integers) |

@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -42,6 +43,7 @@
 | [0242-valid-anagram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 ## String
 |  |
@@ -127,4 +129,28 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

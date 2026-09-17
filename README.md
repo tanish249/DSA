@@ -17,6 +17,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
+| [3996-even-number-of-knight-moves](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [3870-count-commas-in-range](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3908-valid-digit-number) |
+| [3996-even-number-of-knight-moves](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3996-even-number-of-knight-moves) |
 ## Simulation
 |  |
 | ------- |

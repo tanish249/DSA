@@ -69,6 +69,7 @@
 | [2235-add-two-integers](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2469-convert-the-temperature) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
+| [2651-calculate-delayed-arrival-time](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2651-calculate-delayed-arrival-time) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3099-harshad-number) |
 | [3870-count-commas-in-range](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3870-count-commas-in-range) |

@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0414-third-maximum-number) |
@@ -135,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |

@@ -21,6 +21,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3978-unique-middle-element](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3978-unique-middle-element) |
 | [3996-even-number-of-knight-moves](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table

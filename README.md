@@ -91,6 +91,7 @@
 | [3870-count-commas-in-range](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3908-valid-digit-number) |
+| [3959-check-good-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3959-check-good-integer) |
 | [3996-even-number-of-knight-moves](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3996-even-number-of-knight-moves) |
 ## Simulation
 |  |
@@ -101,6 +102,7 @@
 | [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
 | [3894-traffic-signal-color](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3894-traffic-signal-color) |
+| [3959-check-good-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
 | ------- |

@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -32,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
 ## Two Pointers
 |  |
@@ -51,6 +53,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3536-maximum-product-of-two-digits) |
 ## String

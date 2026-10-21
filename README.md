@@ -77,6 +77,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0066-plus-one) |
+| [0292-nim-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
@@ -136,14 +137,17 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
 ## Polygons
 |  |
@@ -180,4 +184,12 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
 | [3978-unique-middle-element](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3978-unique-middle-element) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

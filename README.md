@@ -19,6 +19,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
@@ -81,6 +82,7 @@
 | [1025-divisor-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1688-count-of-matches-in-tournament) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2469-convert-the-temperature) |

@@ -49,6 +49,7 @@
 | ------- |
 | [0136-single-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0509-fibonacci-number) |
@@ -129,6 +131,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

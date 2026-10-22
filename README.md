@@ -19,6 +19,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0977-squares-of-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |
@@ -65,6 +66,7 @@
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0977-squares-of-a-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |

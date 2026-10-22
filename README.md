@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0977-squares-of-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -57,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0977-squares-of-a-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |

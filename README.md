@@ -27,6 +27,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3978-unique-middle-element](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3978-unique-middle-element) |
 | [3996-even-number-of-knight-moves](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
@@ -96,6 +97,7 @@
 | [2651-calculate-delayed-arrival-time](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2651-calculate-delayed-arrival-time) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3099-harshad-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3516-find-closest-person](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3783-mirror-distance-of-an-integer) |

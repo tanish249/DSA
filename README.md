@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0485-max-consecutive-ones) |
+| [0896-monotonic-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0977-squares-of-a-sorted-array) |

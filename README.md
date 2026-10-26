@@ -30,6 +30,7 @@
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3668-restore-finishing-order](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3668-restore-finishing-order) |
 | [3978-unique-middle-element](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3978-unique-middle-element) |
 | [3996-even-number-of-knight-moves](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
@@ -43,6 +44,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
+| [3668-restore-finishing-order](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |

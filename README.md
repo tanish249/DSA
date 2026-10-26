@@ -100,6 +100,7 @@
 | [2469-convert-the-temperature](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2469-convert-the-temperature) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
 | [2651-calculate-delayed-arrival-time](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2651-calculate-delayed-arrival-time) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3232-find-if-digit-game-can-be-won) |

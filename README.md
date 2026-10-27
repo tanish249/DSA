@@ -29,6 +29,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3668-restore-finishing-order](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3668-restore-finishing-order) |
 | [3978-unique-middle-element](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3978-unique-middle-element) |
@@ -105,6 +106,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3516-find-closest-person](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3536-maximum-product-of-two-digits) |

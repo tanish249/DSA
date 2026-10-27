@@ -111,6 +111,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3516-find-closest-person](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3894-traffic-signal-color) |

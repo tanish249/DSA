@@ -31,6 +31,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3467-transform-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3668-restore-finishing-order) |
 | [3978-unique-middle-element](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3978-unique-middle-element) |
 | [3996-even-number-of-knight-moves](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3996-even-number-of-knight-moves) |
@@ -72,6 +73,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
+| [3467-transform-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
+| [3467-transform-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3467-transform-array-by-parity) |
 | [3978-unique-middle-element](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3978-unique-middle-element) |
 ## Minimax
 |  |

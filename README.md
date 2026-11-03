@@ -36,6 +36,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3467-transform-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3668-restore-finishing-order) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3978-unique-middle-element](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3978-unique-middle-element) |
 | [3996-even-number-of-knight-moves](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
@@ -124,6 +125,7 @@
 | [3516-find-closest-person](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3894-traffic-signal-color) |

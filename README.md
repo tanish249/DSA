@@ -28,6 +28,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
 | [2733-neither-minimum-nor-maximum](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -119,6 +120,7 @@
 | [2235-add-two-integers](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
 | [2651-calculate-delayed-arrival-time](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2652-sum-multiples) |

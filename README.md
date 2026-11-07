@@ -23,6 +23,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -79,6 +80,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0977-squares-of-a-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2733-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
@@ -234,4 +236,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0292-nim-game) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->

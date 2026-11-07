@@ -47,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0771-jewels-and-stones) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -92,6 +93,7 @@
 | [0520-detect-capital](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1832-check-if-the-sentence-is-pangram) |

@@ -39,6 +39,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3668-restore-finishing-order) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3875-construct-uniform-parity-array-i) |
 | [3978-unique-middle-element](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3978-unique-middle-element) |
 | [3996-even-number-of-knight-moves](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
@@ -134,6 +135,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3908-valid-digit-number) |
 | [3959-check-good-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3959-check-good-integer) |

@@ -85,6 +85,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2733-neither-minimum-nor-maximum](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2733-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3467-transform-array-by-parity) |
@@ -118,6 +119,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -246,4 +248,8 @@
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->

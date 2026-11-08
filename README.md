@@ -33,6 +33,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -104,6 +105,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2942-find-words-containing-character) |
 | [3894-traffic-signal-color](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |

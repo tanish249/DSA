@@ -17,6 +17,7 @@
 | [0896-monotonic-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0977-squares-of-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -53,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->

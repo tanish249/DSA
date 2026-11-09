@@ -35,6 +35,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2951-find-the-peaks) |
 | [3024-type-of-triangle](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -260,4 +261,8 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2553-separate-the-digits-in-an-array) |
@@ -213,6 +214,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/0912-sort-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3467-transform-array-by-parity) |
 | [3978-unique-middle-element](https://github.com/tanish249/Data-Structures-Algorithmns/tree/master/3978-unique-middle-element) |
 ## Minimax
